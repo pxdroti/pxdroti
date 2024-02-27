@@ -1,6 +1,6 @@
 ### OLá! sou João Victor Pedroti ✌🏾
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-pedroti-715946254/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-pedroti-076765203/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxdroti&show_icons=true&theme=radical)
 
